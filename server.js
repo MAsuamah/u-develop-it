@@ -102,7 +102,6 @@ db.query(sql, params, (err, result) => {
 });
 
 
-
 /* db.query(`SELECT * FROM candidates`, (err, rows) => {
   console.log(rows);
 });
