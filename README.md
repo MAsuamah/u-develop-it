@@ -19,7 +19,7 @@ The back-end of a voting application called U Vote It, connected to a relational
 
 ## More Info
 * After following the installation instructions you are able to use the application. Run `npm start` to do so. 
-* Since the application is only the backend using an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to see the routes at work.
+* Since the application is only the backend use an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to see the routes at work.
 * Study the code and API routes to see which routes and mehtods are available. You can you your API client to test them out.
 
 ![500-get-voters-sorted](https://user-images.githubusercontent.com/77217156/118424398-2a3daf00-b695-11eb-8964-3224974e7a34.jpeg)
