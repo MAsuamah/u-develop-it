@@ -17,7 +17,7 @@ The back-end of a voting application called U Vote It, connected to a relational
 * Run `source db/seeds.sql` to populate the four tables with data.
 * Type `quit;` to exit the MySQL shell.
 
-## More Info
+## How to Use
 * After following the installation instructions you are able to use the application. Run `npm start` to do so. 
 * Since the application is only the backend use an API client like [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to see the routes at work.
 * Study the code and API routes to see which routes and mehtods are available. You can you your API client to test them out.
