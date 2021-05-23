@@ -10,7 +10,7 @@ The back-end of a voting application called U Vote It, connected to a relational
 * Clone the repository onto your local machine.
 * In your terminal cd into the root folder of the u-develop-it.
 * While in the root folder, you must first run `npm install` to load all the dependancies needed for the app run.
-* Next you should open the connection.js file and edit it to contain your MySQL credentials.
+* Next you should open the connection.js file and edit it to contain your MySQL username and password.
 * In your terminal while still in the root folder of u-develop-it run `mysql -u root -p` then enter your MySQL password when prompted.
 * Now in the MySQL shell run `source db/db.sql` to create the election database.
 * Next run `source db/schema.sql`to create the parties, voters, votes, and candidates tables.
