@@ -7,7 +7,7 @@ The back-end of a voting application called U Vote It, connected to a relational
 ## How to Install
 ** This app uses MySQL and you will need to have MySQL installed to operate this application.**
 
-* Clone the repository onto your local machine.
+* Clone the repository onto your local machine ([How to Clone a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)).
 * In your terminal cd into the root folder of the u-develop-it.
 * While in the root folder, you must first run `npm install` to load all the dependancies needed for the app run.
 * Next you should open the connection.js file and edit it to contain your MySQL username and password.
